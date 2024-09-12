@@ -1,0 +1,447 @@
+@media(max-width:1140px) {
+   .header__bottom {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 30px;
+   }
+
+   .header__top {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .header__top-list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .section__four-drinks {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .section__five-content {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .section__two-reservation {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 16px;
+      padding-bottom: 90px;
+      display: flex;
+      flex-direction: column;
+   }
+
+   .customers__top {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+
+   .customers__bottom {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .section__eight-content {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .updates__information {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .section__ten-content {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .newsletter__actions {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .section__eleven-newsletter {
+      padding: 48px 32px;
+   }
+
+
+   .section__eleven-content {
+      padding-bottom: 60px;
+   }
+
+}
+
+
+@media(max-width:763px) {
+   .footer__content {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .section__left-img2 {
+      width: 100%;
+   }
+
+   .section__eleven-newsletter {
+      padding: 48px 32px;
+      width: 100%;
+   }
+
+   .left__image::after {
+      width: 100%;
+   }
+
+   .left__image::before {
+      width: 100%;
+   }
+
+
+
+
+}
+
+
+@media(max-width:710px) {
+
+
+   .left__image::after {
+      display: none;
+   }
+
+   .left__image::before {
+      display: none;
+   }
+
+   .section__left-img2 {
+      display: none;
+   }
+
+   .header__bottom-image::before {
+      display: none;
+   }
+
+   .header__bottom-image::after {
+      display: none;
+   }
+
+   .left__image {
+      display: none;
+   }
+
+
+
+}
+
+@media(max-width:672px) {
+
+   .newsletter__button1 {
+      border: 1px solid #f5efdb;
+      width: 249px;
+      min-height: 60px;
+      font-family: "Cormorant Upright";
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 175%;
+      letter-spacing: 0.04em;
+      text-transform: capitalize;
+      text-align: center;
+      color: #aaa;
+      outline: none;
+      display: flex;
+      flex-direction: column;
+      padding: 15px;
+   }
+
+   .customer__text {
+      padding-bottom: 18px;
+      font-family: "Cormorant Upright";
+      font-style: italic;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 175%;
+      letter-spacing: 0.04em;
+      color: #aaa;
+      max-width: 307px;
+   }
+
+   .laureals__top {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .laureals__bottom {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+
+
+}
+
+
+@media(max-width:639px) {
+   .left__image::after {
+      display: none;
+   }
+
+   .left__image::before {
+      display: none;
+   }
+
+   .section__left-img2 {
+      display: none;
+   }
+
+   .header__bottom-image::before {
+      display: none;
+   }
+
+   .header__bottom-image::after {
+      display: none;
+   }
+
+   .left__image {
+      display: none;
+   }
+
+
+}
+
+
+@media(max-width:571px) {
+
+   .customer__text {
+      padding-bottom: 18px;
+      font-family: "Cormorant Upright";
+      font-style: italic;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 175%;
+      letter-spacing: 0.04em;
+      color: #aaa;
+      max-width: 307px;
+   }
+
+   .laureals__top {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .laureals__bottom {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+
+}
+
+@media(max-width:488px) {
+
+   .section__one-content {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+}
+
+
+@media(max-width:471px) {
+   .section__eight-right-img {
+      width: 100%;
+   }
+
+   .section__eleven-logo {
+      position: absolute;
+      top: -160px;
+      left: 8px;
+   }
+
+
+   .section__eight-right-secondimg {
+      width: 100%;
+   }
+
+
+   .section__eight-ontopG {
+      width: 100%;
+   }
+
+   .reservation__item {
+      border: 1px solid #f5efdb;
+      width: 338px;
+   }
+
+   .header__bottom-list {
+      display: none;
+   }
+
+   .customer__text {
+      display: flex;
+      flex-direction: column;
+
+   }
+
+   .drinks__center-img {
+      width: 100%;
+   }
+
+
+}
+
+@media(max-width:399px) {
+   .drinks__center-img {
+      width: 100%;
+   }
+
+
+
+   .customer__text {
+      overflow: auto;
+   }
+
+   .navbar__list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .updates__card {
+      width: 363px;
+   }
+
+   .drinks {
+      width: 373px;
+      height: 66px;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 15px;
+      position: relative;
+      margin-bottom: 50px;
+   }
+
+}
+
+
+@media(max-width:376px) {
+   .drinks__center-img {
+      width: 100%;
+   }
+
+   .drinks {
+      width: 349px;
+  }
+
+   .section__eight-topinfo {
+      transform: translateX(1px);
+   }
+
+   .reservation__item {
+      border: 1px solid #f5efdb;
+      width: 321px;
+   }
+
+   .updates__card {
+      width: 274px;
+   }
+
+   .drinks::before {
+      content: "";
+      width: 104px;
+      height: 1px;
+      background: #fafafa;
+      position: absolute;
+      transform: rotate(180deg);
+      left: 210px;
+      margin-top: -20px;
+   }
+   
+ 
+
+}
+
+@media(max-width:344px){
+   .drinks {
+      width: 314px;
+  }
+
+  .reservation__item {
+   border: 1px solid #f5efdb;
+   width: 280px;
+}
+
+
+}
+
+
+@media(max-width:320px) {
+   .reservation__item {
+      border: 1px solid #f5efdb;
+      width: 275px;
+   }
+
+
+   .drinks {
+      width: 322px;
+   }
+
+   .drinks::before {
+      content: "";
+      width: 104px;
+      height: 1px;
+      background: #fafafa;
+      position: absolute;
+      transform: rotate(180deg);
+      left: 210px;
+      margin-top: -20px;
+   }
+
+   .drinks__center-img {
+      width: 100%;
+   }
+
+   .updates__card {
+      width: 274px;
+   }
+}
